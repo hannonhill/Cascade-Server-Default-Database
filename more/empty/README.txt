@@ -1,0 +1,1 @@
+These databases have 0 records and will only work with Cascade Server 6.4 or newer. Cascade Server will NOT start properly against these databases. Use the 'essentials' databases if you're looking for a usable database without any assets.
